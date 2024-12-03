@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: cygg
+    name: onepiece-readonl
     env: node
     buildCommand: npm install
     startCommand: npm start
